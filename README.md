@@ -11,10 +11,8 @@ Shift Lama : B
 ## Screenshot
 
 
-![registrasi][registrasi](https://github.com/user-attachments/assets/80e7cc01-df0e-451c-a571-c811733a69da)
-
-![Login][login](https://github.com/user-attachments/assets/194a9f26-d584-495d-9435-ae63e8bbadd1)
-
+![registrasi]![registrasi](https://github.com/user-attachments/assets/80e7cc01-df0e-451c-a571-c811733a69da)
+![Login][login]![login](https://github.com/user-attachments/assets/6e9423fa-87e2-42dc-a1d8-fe9a060f4c3f)
 ![Login Berhasil](loginberhasil.jpg)
 ![List Produk](listproduk.jpg)
 ![Tambah Produk](tambahproduk.jpg)
